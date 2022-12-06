@@ -13,7 +13,7 @@ It is named after physicist Werner Heisenberg, who first proposed it in 1927. In
 that can achieve the Heisenberg limit for learning an interacting N-qubit local Hamiltonian. This means that the algorithm can efficiently
 estimate any parameter in the N-qubit Hamiltonian with a high degree of accuracy.
 
-##A Sublinear-Time Quantum Algorithm for Approximating Partition Functions
+## A Sublinear-Time Quantum Algorithm for Approximating Partition Functions
 A Sublinear-Time Quantum Algorithm is a type of algorithm that uses quantum computing to solve a problem in a shorter amount of time
 than a traditional algorithm. It is designed to work with respect to the logarithm of the size of the state space, meaning that it can
 solve problems with a large number of possible solutions in a shorter amount of time than a traditional algorithm.
