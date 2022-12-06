@@ -1,6 +1,13 @@
 # Quantum Singular Value Transform and Topological Data Analysis:
 
 The problem chosen to analyze is given by the paper *"[A streamlined quantum algorithm for topological data analysis with exponentially fewer qubits](https://arxiv.org/abs/2209.12887)"*
+### Objective:
+Estimate persistent Betti numbers with a quantum algortihm and proving an exponential speedup over classical algorithms.
+### Method
+Reduce the problem to estimating the normalised rank of a projector that encodes the relevant topological feature
+of the data, and show how this problem can be efficiently solved using quantum singular value transformation (QSVT).
+
+Betti numbers are topological invariants of a dataset that measure the number of holes that survive from one length scale to another. The normalised rank of a projector is used to encode the relevant topological features of the data, which can then be used to calculate Betti numbers.
 
 ### Definitions:
 - A **streamlined quantum algorithm** is a type of algorithm that uses quantum computing to solve problems more quickly than traditional methods.
