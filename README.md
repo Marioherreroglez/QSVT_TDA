@@ -1,5 +1,5 @@
 # QSVT_TDA:
-The problem chosen to analyze is given by the paper *"A streamlined quantum algorithm for topological data analysis with exponentially fewer qubits"*
+The problem chosen to analyze is given by the paper *"[A streamlined quantum algorithm for topological data analysis with exponentially fewer qubits](https://arxiv.org/abs/2209.12887)"*
 
 ### Definitions:
 - A **streamlined quantum algorithm** is a type of algorithm that uses quantum computing to solve problems more quickly than traditional methods.
