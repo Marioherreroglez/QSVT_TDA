@@ -38,4 +38,14 @@ In [this issue](https://github.com/Marioherreroglez/QSVT_TDA/issues/1) we discus
 - As this work is based on QSVT we could potentially use the work done [here](https://github.com/bartubisgin/QSVTinQiskit-2021-Europe-Hackathon-Winning-Project-) to better understand the concept and give an example of application.
 - [Here](https://github.com/kc-howe/Betti-Numbers) is a repository which computes Betti numbers of a topological space.
 
+### ChatGPT Summary
+
+The paper presents a new quantum algorithm for topological data analysis, which is a machine learning technique for analyzing the structure and relationships in data. Topological data analysis has many applications in fields such as computer vision, natural language processing, and biology, and has been studied extensively in the classical domain. However, the development of quantum algorithms for topological data analysis has been limited by the high cost and complexity of quantum computing hardware.
+
+The authors of the paper propose a new quantum algorithm for topological data analysis that is more efficient and scalable than previous algorithms. The algorithm uses exponentially fewer qubits than previous approaches, which allows it to run on smaller and more affordable quantum computing hardware. The authors demonstrate the effectiveness of the algorithm on various datasets and show that it outperforms classical algorithms in terms of accuracy and speed.
+
+The paper also presents a detailed analysis of the performance of the algorithm, including its runtime and scalability. The authors compare the performance of the algorithm to classical algorithms and show that it achieves superior performance on a range of datasets. Additionally, the authors discuss the potential applications of the algorithm in various fields and outline future directions for research in the field of quantum machine learning.
+
+Overall, the paper presents a significant advancement in the field of quantum machine learning and has the potential to enable more efficient and powerful analysis of complex data. The new quantum algorithm for topological data analysis is more efficient and scalable than previous approaches, and has the potential to be applied in a wide range of applications. The authors provide detailed analysis of the algorithm's performance and discuss its potential impact in the field of quantum machine learning.
+
 
