@@ -1,4 +1,4 @@
-# Quantum Singular Value Transform and Topological Data Analysis:
+# Quantum Singular Value Transform and Topological Data Analysis
 
 The problem chosen to analyze is given by the paper *"[A streamlined quantum algorithm for topological data analysis with exponentially fewer qubits](https://arxiv.org/abs/2209.12887)"*
 ### Objective:
